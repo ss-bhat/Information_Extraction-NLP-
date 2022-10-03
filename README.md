@@ -3,7 +3,6 @@
 
 <b>Student Id: 17230755</b>
 
-<b>Name: Swaroop S Bhat</b>
 
 ### Overview:
 This assignment is regarding Information extraction in a football player data set. I have used a standford tagger for Named Entity extraction. 
